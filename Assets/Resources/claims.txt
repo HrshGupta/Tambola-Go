@@ -1,0 +1,56 @@
+Fill according to below structure
+#################################
+claim-name;description;colored-block-indexes (with - between each index)
+#################################
+
+1 line/ Top Line;All numbers in top row are marked;00-02-03-06-07
+2 line/Middle Line;All numbers in mid row are marked;11-14-15-17-18
+3 line/Bottom line;All numbers in bottom row are marked;21-24-25-27-28
+Five 5;When any 5 number are marked;00-24-25-07-28
+Corners;First and last number of top and bottom rows;00-07-21-28
+4 Corner and Center;First and last number of top and bottom rows with centre of middle row;00-07-21-28-15
+king Corner;When last number of each row is marked;07-18-28
+Queen Corner;When first number of each row is marked;00-11-21
+Temp./Bp;Smallest and Highest number are marked;00-28
+Double Tempreture;Two Smallest and two Highest number are marked;00-11-18-28
+Triple Temperature;Three Smallest and three highest number are marked;00-11-21-27-18-28
+breakfast;All the numbers of 1st,2nd and 3rd columns are marked;00-01-02-10-11-12-20-21-22
+lunch;All the numbers of 4th, 5th and 6th columns are marked;03-04-05-13-14-15-23-24-25
+dinner;All the numbers of 7th,8th and 9th columns are marked;06-07-08-16-17-18-26-27-28
+Day/Jawani;When all numbers between 1 to 45 are marked;00-11-21-02-03-14
+Night/Bhudapa;When all numbers between 46 to 99 are marked;24-15-25-06-07-17-27-18-28
+Shehnai Bdaai;If the first 3 numbers of Top row and last 3 numbers of the last row are marked;00-02-03-28-27-25
+All Odd;If all the odd numbers of ticket are marked;00-02-03-15-17-27-28
+All Even;If all the even numbers of ticket are marked;11-21-14-24-25-06-07-18
+Brahma;When all the numbers are from 1 to 30 are marked;00-11-21-03
+Vishnu;When all the numbers are from 31 to 60 are marked;03-14-24-15-25
+Mahesh;When all the numbers are from 61 to 90 are marked;06-07-17-27-18-28
+Plus;When the middle/3rd number of top and bottom row, and 2nd,3rd and 4th number of middle row are marked;03-14-17-21-25-28
+Pyramid; If the 3rd number of top, 2nd and 4th number of middle row and 1st,3rd and 5th number of bottom row are marked;03-14-17-21-25-28
+Reverse Pyramid; If the 1st,3rd and 5th number of top,  2nd and 4th number of middle row and 3rd number of bottom row are marked;00-03-07-14-17-25
+First half;When 1st,2nd and 3rd number of each line (row) are marked;00-02-03-11-14-15-21-24-25
+Second half;When 3rd,4th and 5th number of each line (row) are marked;03-06-07-15-17-18-25-27-28
+Letter T;;00-01-02-03-04-05-06-07-08-14-24
+Letter H;;00-07-10-11-12-13-14-15-16-17-18-20-28
+Digit 7;When all the number in digit 7 pattern are marked.Means all numbers of Top row and Last column should be marked;00-01-02-03-04-05-06-07-08-18-28
+Circle; if 3rd number of top row, 2nd and 4th numbers of middle row and 3rd number of last row are marked;03-14-17-25
+Bamboo; When 3rd number of each line (row) are marked;03-05-25
+2 Pair (Row); If in a ticket, 2 Pair of 2 numbers together are marked;02-03-24-25
+2 Pair (Column);If in a ticket, 2 Pair of 2 numbers together vertically are marked;11-21-07-17
+Zip;if 1st and 2nd numbers of Top line + 3rd number of middle line + 4th and 5th  numbers of last line are marked;00-02-15-27-28
+Zap;if 4th and 5th numbers of Top line + 3rd number of middle line + 1st and 2nd numbers of last line are marked;06-07-15-21-24
+124;If 1st number of top row, 1st and 2nd of middle row and 1st , 2nd, 3rd and 4th number of last row are marked;00-11-14-21-24-25-27
+421;If 1st , 2nd, 3rd and 4th numbers of top row, 1st and 2nd number of middle row and 1st number of last row are marked;00-02-03-06-11-14-21
+26 Jan;when all numbers containing 2 and 6 are marked;02-06-07-11
+15 Aug;when all numbers containing 1 and 5 are marked;02-11-15-21-25
+1947;When all numbers of 1st, 9th , 4th and 7th colummn are marked;00-03-06-18-28
+5 Pandav;When all numbers containing 5 are marked;15-25
+I love you 143;If 1st number of top row, 1st , 2nd, 3rd and 4th number of middle row and 1st , 2nd and 3rd of last row are marked;00-11-14-15-17-18-21-24-25
+Eclipse;When the 2nd,3rd and 4th numbers of First & last rows and 1st and 5th numbers of middle row are marked;02-03-06-11-18-24-25-27
+Hum 2 humare 2 ; When 1st, 2nd of top line and 4th and 5th of bottom row are marked;00-02-27-28
+Anda Danda; When all numbers containing 0 and 1 are marked;02-11-21
+18 Line;All numbers are marked in 6th ticket last row;21-24-25-27-28
+Bulls Eyes;If 2nd and 4th numbers of each lines are marked;02-03-14-17-24-27
+Railway;When all numbers of top line and bottom line are marked;00-01-02-03-04-05-06-07-08-20-21-23-24-25-26-27-28
+Desert;when last number in all 6 tickets are marked;28
+Twinning;When any one pair in all 6 slips are marked;

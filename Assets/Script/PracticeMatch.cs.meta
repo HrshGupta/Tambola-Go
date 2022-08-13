@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f1ba56bf56e2b0445a67aeef52b34caa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - panditAnimation: {fileID: 8452142727858922690, guid: e45b8c3182c27084f80d5324318e1879, type: 3}
+  - disconnectedPopUp: {instanceID: 0}
+  - disconnectedMsg: {instanceID: 0}
+  - _PlayerBoard: {instanceID: 0}
+  - dealWaitTime: {instanceID: 0}
+  - dealNumber: {instanceID: 0}
+  - numberVoiceSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "507759015611",
+    "firebase_url": "https://ult-pult-tambola-default-rtdb.firebaseio.com",
+    "project_id": "ult-pult-tambola",
+    "storage_bucket": "ult-pult-tambola.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507759015611:android:408c48dfae50dc7d079b9e",
+        "android_client_info": {
+          "package_name": "com.NMSGames.Ult_Pult_Tambola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507759015611-ptm21c79i8ho0tpn62850d6lnfgapeeb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.NMSGames.Ult_Pult_Tambola",
+            "certificate_hash": "ffc01d01438518cc5c2066172103864e52cb2285"
+          }
+        },
+        {
+          "client_id": "507759015611-70mktbhokn704f2f01r8c3nigbemaqse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB_MAlraqp_LQbpjBaPf7p3zZfoPEUm60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507759015611-70mktbhokn704f2f01r8c3nigbemaqse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

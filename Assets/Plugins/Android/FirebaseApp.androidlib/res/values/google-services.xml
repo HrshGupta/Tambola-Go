@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://ult-pult-tambola-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">507759015611</string>
+  <string name="google_storage_bucket" translatable="false">ult-pult-tambola.appspot.com</string>
+  <string name="project_id" translatable="false">ult-pult-tambola</string>
+  <string name="google_api_key" translatable="false">AIzaSyDB_MAlraqp_LQbpjBaPf7p3zZfoPEUm60</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDB_MAlraqp_LQbpjBaPf7p3zZfoPEUm60</string>
+  <string name="google_app_id" translatable="false">1:507759015611:android:408c48dfae50dc7d079b9e</string>
+  <string name="default_android_client_id" translatable="false">507759015611-ptm21c79i8ho0tpn62850d6lnfgapeeb.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">507759015611-70mktbhokn704f2f01r8c3nigbemaqse.apps.googleusercontent.com</string>
+</resources>

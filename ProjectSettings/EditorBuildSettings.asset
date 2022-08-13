@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/SplashScreen.unity
+    guid: fefd39387dd4d114e97e11b0ab3e0867
+  - enabled: 1
+    path: Assets/Scene/Login.unity
+    guid: 4a5701c59ab512243859c413124ce624
+  - enabled: 1
+    path: Assets/Scene/Lazzy.unity
+    guid: 15c5acd6af6f7bb409c5d32e51f0d6cf
+  - enabled: 1
+    path: Assets/Scene/Quick.unity
+    guid: c97732e5532db994ea1d29083cbaa714
+  - enabled: 1
+    path: Assets/Scene/Rapid.unity
+    guid: ef40551d56f3a7242a9461c7e7c94425
+  - enabled: 1
+    path: Assets/Scene/Tournament1.unity
+    guid: 4bf663a27b3a66b4896061f7703935cc
+  - enabled: 1
+    path: Assets/Scene/Tournament2.unity
+    guid: 256363ac59430f14d818eaf9d3a5bcab
+  - enabled: 1
+    path: Assets/Scene/Tournament3.unity
+    guid: 08a8a298c63c82040b2d089da6eecf2f
+  - enabled: 1
+    path: Assets/Scene/Tournament3-test.unity
+    guid: 448a49f42aad0aa46a6a7e25c4b03457
+  - enabled: 1
+    path: Assets/Scene/Six Slip Games.unity
+    guid: 767b4ed6f63e25f4abdcba7e091d622e
+  - enabled: 1
+    path: Assets/Scene/Normal Slip Games.unity
+    guid: f8e440bc1483cd0489338642d381b7c4
+  - enabled: 1
+    path: Assets/Scene/Theme Games.unity
+    guid: 48ce9272f3446774b9eae4e08634abd1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scene/Normal.unity
+    guid: 447ce390a7f66b641a618073b808e4f9
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scene/Practice.unity
+    guid: 03d52a54c49bc3b4a898647b1ba38bd4
+  m_configObjects: {}
