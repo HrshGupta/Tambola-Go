@@ -42,7 +42,13 @@ public class PlayerBoard : MonoBehaviourPunCallbacks, IInRoomCallbacks
     [SerializeField]
     public Transform EmptyCell;
 
-    [System.Serializable]
+    //[System.Serializable]
+
+    private void start()
+    {
+        AdManager.instance.RequestInterstitial();
+    }
+
     public class Tickets
     {
         public Transform ticket;
@@ -4329,6 +4335,9 @@ public class PlayerBoard : MonoBehaviourPunCallbacks, IInRoomCallbacks
         PhotonNetwork.Disconnect();
         PhotonNetwork.LeaveRoom();
         SceneManager.LoadScene("Login");
+
+        AdManager.instance.ShowInterstitial();
+
     }
 
     void LoadNextLevel()
