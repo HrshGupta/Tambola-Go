@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="out2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/8_jetified-com.google.guava.listenablefuture-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/11_jetified-com.parse.bolts.bolts-applinks-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/0_jetified-androidx.annotation.annotation-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/17_jetified-org.jetbrains.kotlin.kotlin-stdlib-jdk8-1.5.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/3_jetified-androidx.concurrent.concurrent-futures-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/7_jetified-com.google.firebase.firebase-annotations-16.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/12_jetified-com.parse.bolts.bolts-tasks-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/1_jetified-androidx.arch.core.core-common-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/6_jetified-androidx.room.room-common-2.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/13_jetified-org.jetbrains.annotations-13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/4_jetified-androidx.lifecycle.lifecycle-common-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/9_jetified-com.google.zxing.core-3.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/14_jetified-org.jetbrains.kotlin.kotlin-stdlib-1.5.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/2_jetified-androidx.collection.collection-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/16_jetified-org.jetbrains.kotlin.kotlin-stdlib-jdk7-1.5.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/external_file_lib_dex_archives/release/out/18_jetified-unity-classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JsonDotNet201Source">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assets/JsonDotNet/JsonDotNet201Source.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
